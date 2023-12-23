@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    ".env*": "dotenv",
+    "Lab 1D.C": "cpp",
+    "Lab 2C.C": "cpp",
+    "Lab 3B.C": "cpp",
+    "Lab 3D.C": "cpp",
+    "Lab 3C.C": "cpp",
+    "Lab 4B.C": "cpp",
+    "Lab 4C.C": "cpp",
+    "Lab 4E.C": "cpp",
+    "Lab 5A.C": "cpp",
+    "Lab 5B.C": "cpp",
+    "Lab 5C.C": "cpp",
+    "Lab 1B.C": "cpp"
+  }
+}
